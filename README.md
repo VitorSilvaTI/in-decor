@@ -6,8 +6,6 @@
 
 ![test](https://user-images.githubusercontent.com/73248933/226229680-10295b35-a3df-402b-90a9-c64fdd99044b.png)
 
-<br>
-
 ### Layout Completo
 
 <br>
