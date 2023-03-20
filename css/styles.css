@@ -162,8 +162,10 @@ figure img {
     align-items: center;
 }
 
-.location-icon {
+.info-local i {
     font-size: 50px;
+    color: var(--featured-color);
+    margin-right: 15px;
 }
 
 .description-text h2 {
